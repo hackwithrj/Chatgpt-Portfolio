@@ -2,11 +2,11 @@
 import React from 'react';
 import styled from 'styled-components';
 import { createGlobalStyle } from 'styled-components';
-import aboutImage from '../../images/rahul.jpg';
-import propelImage from '../../images/propel.png';
-import aciesImage from '../../images/acies.png';
-import kcgImage from '../../images/kcg.png';
-import kcsImage from '../../images/kcs.png';
+import aboutImage from '/rahul.jpg';
+import propelImage from '/propel.png';
+import aciesImage from '/acies.png';
+import kcgImage from '/kcg.png';
+import kcsImage from '/kcs.png';
 
 
 // Define some global styles and colors
